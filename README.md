@@ -1,6 +1,5 @@
 # Healthify-React-App
-App hosted at: [healthify](https://healthify-code-mergers.netlify.app)
-![HealthifyLogo](./public/logoother.png)
+App hosted at: [https://amanhealthify.netlify.app/)
 ## Things to remember
 1) Dark/Light Mode Switch + autodarkmode & make the navbar sticky.
 2) Try to find out what kind of components have to be added according to the type of disease
@@ -17,12 +16,4 @@ App hosted at: [healthify](https://healthify-code-mergers.netlify.app)
 
    npm i 
 
-   <!-- npm install --save react-spinners
-   
-   npm install react-bootstrap bootstrap@4.6.0
-
-   npm i firebase
-
-   npm i react-router-dom -->
-
-### footer code changes : https://github.com/Code-Mergers/Healthify-React-App/commit/34d1c9239bc44e423e2e5a56e813ac067cfacda5
+https://amanhealthify.netlify.app/
